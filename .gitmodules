@@ -1,0 +1,4 @@
+[submodule "ext/wiringpi/WiringPi"]
+	path = ext/wiringpi/WiringPi
+	url = https://github.com/zhaolei/WiringOP.git
+	branch = h3
